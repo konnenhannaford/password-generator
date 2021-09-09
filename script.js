@@ -23,7 +23,7 @@ function writePassword() {
   var hasNumber = confirm("click to include a number")
   var hasSpecial = confirm("click to include a special character")
 
-  if (hasUpper === false || hasLower === false || hasNumber === false || hasSpecial === false) {
+  if (hasUpper === false && hasLower === false && hasNumber === false && hasSpecial === false) {
     alert ("please make sure to select all criteria")
     return
   }

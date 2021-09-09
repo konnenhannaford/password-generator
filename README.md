@@ -12,8 +12,8 @@ HTML, CSS, Javascript
 # Updates
 * Site has been updated to make generate button feature applicable
 * Site has been updated to allow the creation of a password meetign our criteria
-* Site has been updated to show an error message when one or more of these criteria are not met
-* Site will now generate the workign password in the box on site
+* Site has been updated to show an error message when at least one of these criteria are not met
+* Site will now generate the working password in the box on site
 * Coding for site has been streamlined for efficiency
 * A repo following best practice has been created
 * A ReadMe detailing the site and its workings has been created
@@ -26,8 +26,8 @@ Created a series of prompts that need responding to in order to create a passwor
 * Uppercase
 * Lowercase
 * Special
-* Numbers
-* Created a password to generate when criteria is me
+* Numbers  
+Created a password to generate when criteria is met
 
 Repository:
 * Repository has a unique name that follows practice for structure and naming.
