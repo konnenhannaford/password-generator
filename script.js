@@ -11,7 +11,7 @@ var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
 function writePassword() {
-  var characters = window.prompt ("1. Welcome to your password Generator.\n Want to create a password? \n Great, make sure all passwords contain at least \n 1 symbol \n 1 number \n 1 uppercase letter \n 1 lowercase letter \n Please select the amont of characters you would like to use")
+  var characters = window.prompt ("Welcome to your password Generator.\n ########################### \n Want to create a password? \n Great, make sure all passwords contain at least \n 1 symbol \n 1 number \n 1 uppercase letter \n 1 lowercase letter \n Please select the amont of characters you would like to use")
   if ((characters < 8) || (characters > 128)) {
 
     alert("FAILED - Passwords are required to be between 8 and 128 characters long. Try again?")
@@ -24,7 +24,7 @@ function writePassword() {
   var hasSpecial = confirm("click to include a special character")
 
   if (hasUpper === false || hasLower === false || hasNumber === false || hasSpecial === false) {
-    alert ("please choose one of these options")
+    alert ("please make sure to select all criteria")
     return
   }
 

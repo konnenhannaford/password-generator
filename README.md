@@ -1,7 +1,7 @@
 # Konnen Hannaford.  Password-Generator
 
-* Site can be accessed here: https://konnenhannaford.github.io/password-generator/: 
-* The source can be retrieved by cloning and pulling from https://github.com/konnenhannaford/password-generator 
+Site can be accessed here: https://konnenhannaford.github.io/password-generator/  
+The source can be retrieved by cloning and pulling from https://github.com/konnenhannaford/password-generator  
 
 # About
 This page is a password generator that allows for the generation of passwords using a set of restrictive criteria.  
