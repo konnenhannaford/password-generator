@@ -20,14 +20,14 @@ HTML, CSS, Javascript
 * Site has been deployed as a live site and applications loads with no errors
 
 # Completed Tasks
-Task
-- Created a prompt that asks for amount of characters included in the password.  Criteria is between 8 and 128 characters
-- Created a series of prompts that need responding to in order to create a password including
+Task  
+Created a prompt that asks for amount of characters included in the password.  Criteria is between 8 and 128 characters  
+Created a series of prompts that need responding to in order to create a password including  
 * Uppercase
 * Lowercase
 * Special
 * Numbers
-- Created a password to generate when criteria is me
+* Created a password to generate when criteria is me
 
 Repository:
 * Repository has a unique name that follows practice for structure and naming.
