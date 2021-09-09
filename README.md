@@ -11,7 +11,7 @@ HTML, CSS, Javascript
 
 # Updates
 * Site has been updated to make generate button feature applicable
-* Site has been updated to allow the creation of a password meetign our criteria
+* Site has been updated to allow the creation of a password meeting our criteria
 * Site has been updated to show an error message when at least one of these criteria are not met
 * Site will now generate the working password in the box on site
 * Coding for site has been streamlined for efficiency
