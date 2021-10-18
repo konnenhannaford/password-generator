@@ -44,6 +44,11 @@ Repo is public and can be updated by all via https://github.com/konnenhannaford/
 # Learnings and changes
 Completing this has increased familiarity with the process of Javascript and its applications to a website.  It is very complex area that will require further investigation as it is essential to a large are of roles and tasks.  
 
+# Contact Me
+Email: konnen23@gmaill.com
+Linkedin: https://au.linkedin.com/in/konnen-hannaford-b024994a
+Github: https://github.com/konnenhannaford
+
 # Licence
 Copyright <2021> <Password-generator>
 
